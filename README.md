@@ -3,7 +3,7 @@ Randomized dose-escalation designs for drug combination cancer trials with immun
 
 This folder includes files for the paper 
 
-"Radnomized dose-escalation designs for drug combination cancer trials with immunotherapy", Journal of Biopharmaceutical Statistics.
+"Radnomized dose-escalation designs for drug combination cancer trials with immunotherapy".
 
 The codes are the modification of the functions of the bcrm package by Michael Sweeting available on CRAN https://cran.r-project.org/web/packages/bcrm/. The functions of the original package are described in the paper
 
