@@ -1,9 +1,9 @@
 # Randomised-bcrm
-Randomized dose-escalation designs for drug combination cancer trials with immunotherapy
 
-This folder includes files for the paper 
+The codes in this repository can be used to reproduce the results in the paper 
+P. Mozgunov, T. Jaki & X. Paoletti,"Randomized dose-escalation designs for drug combination cancer trials with immunotherapy", Journal of Biopharmaceutical Statistics, in press.
 
-"Radnomized dose-escalation designs for drug combination cancer trials with immunotherapy".
+
 
 The codes are the modification of the functions of the bcrm package by Michael Sweeting available on CRAN https://cran.r-project.org/web/packages/bcrm/. The functions of the original package are described in the paper
 
